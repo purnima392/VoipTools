@@ -1,0 +1,66 @@
+.contact-us {
+  background: url(../img/faq-herobg.png);
+  padding-top: 190px;
+  padding-bottom: 130px; }
+  .contact-us h2 {
+    color: white;
+    font-size: 42px;
+    text-align: center; }
+
+.contact-page {
+  padding: 94px 0px; }
+  .contact-page h4 {
+    font-size: 12px;
+    color: #c4cbcf;
+    padding-bottom: 17px; }
+  .contact-page h3 {
+    font-size: 32px;
+    color: #212628;
+    padding-bottom: 76px; }
+  .contact-page .contact-info {
+    padding-bottom: 69px; }
+    .contact-page .contact-info h4 {
+      font-size: 17px;
+      color: #212628;
+      padding-bottom: 23px; }
+    .contact-page .contact-info ul {
+      list-style: none; }
+    .contact-page .contact-info a {
+      color: #63c6f6; }
+    .contact-page .contact-info li {
+      color: #8c8d92;
+      font-size: 12px;
+      padding-bottom: 10px; }
+  .contact-page .contact_form div {
+    margin: 0px; }
+  .contact-page .contact_form label {
+    color: #212628;
+    font-size: 14px;
+    margin-bottom: 14px; }
+  .contact-page .contact_form input {
+    margin-bottom: 28px; }
+  .contact-page .contact_form textarea {
+    margin-bottom: 38px; }
+  .contact-page .contact_form .submit {
+    font-size: 11px;
+    padding: 17px 40px;
+    -webkit-box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.15); }
+  .contact-page .contact_form h4 {
+    color: #212628;
+    font-size: 14px;
+    margin-bottom: 27px; }
+  .contact-page .contact_form p {
+    color: #8c8d92;
+    font-size: 12px;
+    margin-bottom: 20px;
+    padding: 0px; }
+  .contact-page .contact_form a {
+    border-color: #ff8431;
+    color: #ff8431;
+    font-size: 11px;
+    border-radius: 30px;
+    padding: 17px 40px; }
+
+/*# sourceMappingURL=contact.css.map */

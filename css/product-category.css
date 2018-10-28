@@ -1,0 +1,129 @@
+.voiptool-tab {
+  padding: 0px; }
+  .voiptool-tab .ul-parenttab {
+    background-color: #8ecaf4;
+    border: 0px; }
+    .voiptool-tab .ul-parenttab li,
+    .voiptool-tab .ul-parenttab li.active {
+      padding: 40px 140px; }
+      .voiptool-tab .ul-parenttab li a,
+      .voiptool-tab .ul-parenttab li.active a {
+        color: white;
+        padding: 0px;
+        background-color: transparent;
+        border: none; }
+    .voiptool-tab .ul-parenttab li.active {
+      -webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.15);
+      -moz-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.15);
+      box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.15);
+      background-color: #abdbfd; }
+  .voiptool-tab .voip-childtab .ul-childtab {
+    border: 0px;
+    background-color: #4db6ea; }
+    .voiptool-tab .voip-childtab .ul-childtab li,
+    .voiptool-tab .voip-childtab .ul-childtab li.active {
+      padding: 20px 22px;
+      width: 160px; }
+      .voiptool-tab .voip-childtab .ul-childtab li a,
+      .voiptool-tab .voip-childtab .ul-childtab li.active a {
+        text-align: center;
+        color: white;
+        background-color: transparent;
+        border: none;
+        padding: 0px; }
+    .voiptool-tab .voip-childtab .ul-childtab li.active {
+      background-color: #57bef2;
+      -webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.15);
+      -moz-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.15);
+      box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.15); }
+    .voiptool-tab .voip-childtab .ul-childtab i {
+      display: block;
+      text-align: center;
+      margin-bottom: 15px; }
+  .voiptool-tab .voip-childtab .tab-content {
+    padding-right: 130px;
+    padding-left: 130px;
+    padding-top: 90px;
+    padding-bottom: 90px; }
+    .voiptool-tab .voip-childtab .tab-content .tabcontent-text {
+      padding-right: 50px; }
+      .voiptool-tab .voip-childtab .tab-content .tabcontent-text h2 {
+        font-size: 32px;
+        color: #212628;
+        margin-bottom: 35px; }
+      .voiptool-tab .voip-childtab .tab-content .tabcontent-text p {
+        font-size: 12px;
+        color: #8c8d92;
+        margin-bottom: 50px; }
+      .voiptool-tab .voip-childtab .tab-content .tabcontent-text a {
+        display: inline-block;
+        padding-right: 35px;
+        padding-left: 35px;
+        -webkit-box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.15); }
+
+.discount-section {
+  font-size: 0px;
+  padding: 0px; }
+  .discount-section div {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    color: white; }
+    .discount-section div b {
+      font-size: 11px; }
+    .discount-section div h2 {
+      font-size: 32px; }
+  .discount-section .left-section {
+    display: inline-block;
+    width: 65%;
+    padding-left: 130px;
+    background-color: #212628;
+    background-image: url(../img/percent.png);
+    background-repeat: no-repeat; }
+    .discount-section .left-section b {
+      color: #ff8431; }
+  .discount-section .right-section {
+    display: inline-block;
+    width: 35%;
+    padding-left: 50px;
+    background-color: #ff8431;
+    background-image: url(../img/phone.png);
+    background-repeat: no-repeat; }
+    .discount-section .right-section a {
+      color: white; }
+
+.stay-ahead {
+  padding-top: 75px; }
+  .stay-ahead .container {
+    border-bottom: 1px solid #f3f3f3; }
+
+.stay-content {
+  padding-top: 100px;
+  padding-bottom: 140px; }
+  .stay-content h2 {
+    font-size: 32px;
+    margin-bottom: 33px; }
+  .stay-content p {
+    font-size: 12px;
+    color: #8c8d92;
+    margin-bottom: 50px; }
+  .stay-content .btn-warning {
+    -webkit-box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.15);
+    display: inline-block;
+    margin-right: 20px;
+    padding-right: 35px;
+    padding-left: 35px; }
+  .stay-content .btn-outline {
+    border: 1px solid #ff8431;
+    color: #ff8431;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border-radius: 30px;
+    letter-spacing: 1px; }
+
+/*# sourceMappingURL=product-category.css.map */
